@@ -1,0 +1,236 @@
+fileFormatVersion: 2
+guid: 325e5c2196a6dd94196e9852d9ab554d
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: cape_back_1
+    100002: cape_back_2
+    100004: cape_back_3
+    100006: cape_front_1
+    100008: cape_front_2
+    100010: cape_front_3
+    100012: Char_Peace
+    100014: chest
+    100016: face_main
+    100018: FaceControl
+    100020: head
+    100022: hips
+    100024: Horns_Handle
+    100026: L_arm
+    100028: L_cape_1
+    100030: L_cape_2
+    100032: L_cape_3
+    100034: L_cape_back_1
+    100036: L_cape_back_2
+    100038: L_cape_back_3
+    100040: L_cape_front_1
+    100042: L_cape_front_2
+    100044: L_cape_front_3
+    100046: L_foot
+    100048: L_hand
+    100050: L_horn_1
+    100052: L_horn_2
+    100054: L_horn_3
+    100056: L_Horn_Handle
+    100058: L_knee
+    100060: L_leg
+    100062: L_Leg_IKHandle
+    100064: L_Leg_Pole
+    100066: L_wrist
+    100068: MainRig
+    100070: //RootNode
+    100072: Plane
+    100074: R_arm
+    100076: R_cape_1
+    100078: R_cape_2
+    100080: R_cape_3
+    100082: R_cape_back_1
+    100084: R_cape_back_2
+    100086: R_cape_back_3
+    100088: R_cape_front_1
+    100090: R_cape_front_2
+    100092: R_cape_front_3
+    100094: R_foot
+    100096: R_hand
+    100098: R_horn_1
+    100100: R_horn_2
+    100102: R_horn_3
+    100104: R_Horn_Handle
+    100106: R_knee
+    100108: R_leg
+    100110: R_Leg_IKHandle
+    100112: R_Leg_Pole
+    100114: R_wrist
+    100116: root
+    100118: test_base
+    400000: cape_back_1
+    400002: cape_back_2
+    400004: cape_back_3
+    400006: cape_front_1
+    400008: cape_front_2
+    400010: cape_front_3
+    400012: Char_Peace
+    400014: chest
+    400016: face_main
+    400018: FaceControl
+    400020: head
+    400022: hips
+    400024: Horns_Handle
+    400026: L_arm
+    400028: L_cape_1
+    400030: L_cape_2
+    400032: L_cape_3
+    400034: L_cape_back_1
+    400036: L_cape_back_2
+    400038: L_cape_back_3
+    400040: L_cape_front_1
+    400042: L_cape_front_2
+    400044: L_cape_front_3
+    400046: L_foot
+    400048: L_hand
+    400050: L_horn_1
+    400052: L_horn_2
+    400054: L_horn_3
+    400056: L_Horn_Handle
+    400058: L_knee
+    400060: L_leg
+    400062: L_Leg_IKHandle
+    400064: L_Leg_Pole
+    400066: L_wrist
+    400068: MainRig
+    400070: //RootNode
+    400072: Plane
+    400074: R_arm
+    400076: R_cape_1
+    400078: R_cape_2
+    400080: R_cape_3
+    400082: R_cape_back_1
+    400084: R_cape_back_2
+    400086: R_cape_back_3
+    400088: R_cape_front_1
+    400090: R_cape_front_2
+    400092: R_cape_front_3
+    400094: R_foot
+    400096: R_hand
+    400098: R_horn_1
+    400100: R_horn_2
+    400102: R_horn_3
+    400104: R_Horn_Handle
+    400106: R_knee
+    400108: R_leg
+    400110: R_Leg_IKHandle
+    400112: R_Leg_Pole
+    400114: R_wrist
+    400116: root
+    400118: test_base
+    2100000: Joy_Face
+    2100002: BodyBase__Joy_Diffuse
+    2100004: Joy_Face__Joy_Diffuse
+    2100006: Peace__PeaceDetail
+    4300000: Plane
+    4300002: Char_Peace
+    7400000: Default Take
+    7400002: Peace_Attack
+    7400004: Peace_Despair_React
+    7400006: Peace_Faint
+    7400008: Peace_Fear_React
+    7400010: Peace_Heal
+    7400012: Peace_Idle
+    7400014: Peace_Joy_React
+    7400016: Peace_Rage_React
+    7400018: Peace_Reload
+    7400020: Peace_Sitting_Idle
+    7400022: Peace_Stance_Defensive
+    7400024: Peace_Stance_Offensive
+    7400026: Peace_Walkcycle
+    7400028: Peace_Win_React
+    7400030: Peace_Wonder_React
+    7400032: Stance_Icon
+    7400034: WeightTest
+    9500000: //RootNode
+    13700000: Char_Peace
+    13700002: Plane
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
